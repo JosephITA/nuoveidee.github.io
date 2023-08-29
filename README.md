@@ -1,2 +1,2 @@
 # nuoveidee.github.io
-Personal Blog
+Personal Blog, super blog
